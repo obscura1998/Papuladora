@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539309258110",
+    "project_id": "papuladora",
+    "storage_bucket": "papuladora.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539309258110:android:70228fc0e37d7b86e82f2f",
+        "android_client_info": {
+          "package_name": "com.papupro.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaS59KZgjCCC1n2S_0a1pt_ZmIdYe4Uj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

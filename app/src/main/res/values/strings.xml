@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Chat</string>
+    <string name="app_name">Chat App - Kotlin</string>
+    <string name="nombre_papupro">jose francisco obscura mendoza</string>
 </resources>
